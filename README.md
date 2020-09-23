@@ -16,3 +16,5 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ## create user by filling the form fields and click create your amazon account 
+
+### i used firebase auth for user authentication 
