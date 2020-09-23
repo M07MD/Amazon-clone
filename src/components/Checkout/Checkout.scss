@@ -1,0 +1,24 @@
+.checkoutSubtotal {
+  width: 250px;
+  margin: 10px auto 20px auto;
+  display: flex;
+  flex-flow: column;
+  padding: 15px;
+  justify-content: center;
+  align-content: center;
+  background: #ddd;
+  border-radius: 5px;
+
+  p {
+    margin: 10px 0;
+  }
+
+  button {
+    cursor: pointer;
+    width: 100%;
+    padding: 10px 15px;
+    background: #f0c14b;
+    border: 1px solid;
+    border-color: #a88734, #9c7e31, #846a29;
+  }
+}
